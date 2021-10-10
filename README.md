@@ -42,7 +42,7 @@ Here are the questions I'd like you to answer in your queries:
 1. Sales by Hour by Year: Same as the above but broken out by year as well. This will have at most 24 rows per year.
 1. Sales by Hour for 2015: Same as above, but subset to just 2015. 
 1. Owner spend by month: Spend or sales by owner by month.
-1. Owner spend by month for owners who spent between $5K and $10K: Spend or sales by owner by month but only for owners who spent between $5K and $10K in total. 
+1. Owner spend by month for owners who spent between $5K and $10K: Spend or sales by owner by month but only for owners who spent between $5K and $10K in total. So this result set will have _all_ monthly rows for owners who, across the entire time period, spent between $5K and $10K. 
 1. The top 10 selling products at the Wedge
 1. The top 10 selling products at the Wedge by Year for 2015 and 2016
 
